@@ -71,11 +71,4 @@
 // }
 
 
-// void PrintArray(string[] arr)
-// {
-//     for (int i = 0; i < arr.Length; i++)
-//     {
-//         Write($"{arr[i]}");
-//         if (i != arr.Length - 1) Write(", ");
-//     }
-// }
+
